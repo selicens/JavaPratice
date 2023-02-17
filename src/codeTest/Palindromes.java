@@ -1,4 +1,4 @@
-package leecodeTest;
+package codeTest;
 
 public class Palindromes {
     // 找回文数 121，正反都一样的数

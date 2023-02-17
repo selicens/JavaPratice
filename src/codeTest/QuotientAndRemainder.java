@@ -1,4 +1,4 @@
-package leecodeTest;
+package codeTest;
 
 public class QuotientAndRemainder {
     // 不用除和取模|取余得到商数和余数

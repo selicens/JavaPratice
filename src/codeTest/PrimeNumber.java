@@ -1,4 +1,4 @@
-package leecodeTest;
+package codeTest;
 
 import java.util.Scanner;
 

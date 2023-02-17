@@ -1,4 +1,4 @@
-package com.company;
+package basicGrammar;
 
 public class Loop {
     public static void main(String[] args) {
@@ -40,5 +40,16 @@ public class Loop {
             }
             System.out.println("遇continue跳过：" + c);
         }
+        // 无限循环
+        /**
+        for (;;) {
+            System.out.println('6');
+        }
+        while (true) {
+            System.out.println('6');
+        }
+        do {
+            System.out.println('6');
+        } while (true); */
     }
 }

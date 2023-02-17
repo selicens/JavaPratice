@@ -1,4 +1,4 @@
-package com.company;
+package basicGrammar;
 
 public class DataType {
     public static void main(String[] args) {

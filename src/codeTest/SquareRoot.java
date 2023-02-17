@@ -1,4 +1,4 @@
-package leecodeTest;
+package codeTest;
 import java.util.Scanner;
 public class SquareRoot {
     // 求平方根
