@@ -4,28 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ed48cf9-5a22-4148-afb4-5259d1b8844a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/basicGrammar/Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeTest/Count.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeTest/Exchange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeTest/MaxNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeTest/RandomArray.java" afterDir="false" />
+    <list default="true" id="0ed48cf9-5a22-4148-afb4-5259d1b8844a" name="Changes" comment="feat add basic[Array,Method]">
+      <change afterPath="$PROJECT_DIR$/src/codeTest/MethodPrintArr.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basicGrammar/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basicGrammar/Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basicGrammar/DataType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basicGrammar/DataType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basicGrammar/ExtendChild.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basicGrammar/ExtendChild.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basicGrammar/ExtendParent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basicGrammar/ExtendParent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basicGrammar/ExtendsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basicGrammar/ExtendsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basicGrammar/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basicGrammar/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basicGrammar/Judge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basicGrammar/Judge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basicGrammar/Loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basicGrammar/Loop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basicGrammar/Operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basicGrammar/Operator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeTest/ArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeTest/ArrayTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeTest/Palindromes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeTest/Palindromes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeTest/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeTest/PrimeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeTest/QuotientAndRemainder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeTest/QuotientAndRemainder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeTest/RandomNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeTest/RandomNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeTest/SquareRoot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeTest/SquareRoot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicGrammar/Method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basicGrammar/Method.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +41,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Method">
+  <component name="RunManager" selected="Application.MethodPrintArr">
     <configuration name="Count" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="codeTest.Count" />
       <module name="JavaPratice" />
@@ -86,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeTest.MaxNumber" />
+    <configuration name="Method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicGrammar.Method" />
       <module name="JavaPratice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codeTest.*" />
+          <option name="PATTERN" value="basicGrammar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basicGrammar.Method" />
+    <configuration name="MethodPrintArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeTest.MethodPrintArr" />
       <module name="JavaPratice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basicGrammar.*" />
+          <option name="PATTERN" value="codeTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MethodPrintArr" />
         <item itemvalue="Application.Method" />
         <item itemvalue="Application.RandomArray" />
         <item itemvalue="Application.Exchange" />
         <item itemvalue="Application.Count" />
-        <item itemvalue="Application.MaxNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -144,6 +126,14 @@
       <option name="presentableId" value="Default" />
       <updated>1675907511292</updated>
     </task>
+    <task id="LOCAL-00001" summary="feat add basic[Array,Method]">
+      <created>1676646117109</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676646117109</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -168,5 +158,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat add basic[Array,Method]" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat add basic[Array,Method]" />
   </component>
 </project>
