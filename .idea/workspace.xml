@@ -4,10 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ed48cf9-5a22-4148-afb4-5259d1b8844a" name="Changes" comment="feat add basic[Array,Method]">
-      <change afterPath="$PROJECT_DIR$/src/codeTest/MethodPrintArr.java" afterDir="false" />
+    <list default="true" id="0ed48cf9-5a22-4148-afb4-5259d1b8844a" name="Changes" comment="feat add Method Pratice">
+      <change afterPath="$PROJECT_DIR$/src/basicGrammar/TwoDimensionalArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeTest/BuyAirTickets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeTest/DichromaticSphere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeTest/EncryptionAndDecryption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeTest/Grade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeTest/LotteryDraw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeTest/VerificationCode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basicGrammar/Method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basicGrammar/Method.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,35 +46,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MethodPrintArr">
-    <configuration name="Count" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeTest.Count" />
-      <module name="JavaPratice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="codeTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exchange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeTest.Exchange" />
-      <module name="JavaPratice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="codeTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basicGrammar.Method" />
+  <component name="RunManager" selected="Application.TwoDimensionalArray">
+    <configuration name="DichromaticSphere" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeTest.DichromaticSphere" />
       <module name="JavaPratice" />
       <extension name="coverage">
         <pattern>
@@ -81,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodPrintArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeTest.MethodPrintArr" />
+    <configuration name="EncryptionAndDecryption" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeTest.EncryptionAndDecryption" />
       <module name="JavaPratice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codeTest.*" />
+          <option name="PATTERN" value="basicGrammar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +73,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RandomArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeTest.RandomArray" />
+    <configuration name="Grade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeTest.Grade" />
       <module name="JavaPratice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codeTest.*" />
+          <option name="PATTERN" value="basicGrammar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LotteryDraw" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeTest.LotteryDraw" />
+      <module name="JavaPratice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basicGrammar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoDimensionalArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicGrammar.TwoDimensionalArray" />
+      <module name="JavaPratice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basicGrammar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MethodPrintArr" />
-        <item itemvalue="Application.Method" />
-        <item itemvalue="Application.RandomArray" />
-        <item itemvalue="Application.Exchange" />
-        <item itemvalue="Application.Count" />
+        <item itemvalue="Application.TwoDimensionalArray" />
+        <item itemvalue="Application.DichromaticSphere" />
+        <item itemvalue="Application.LotteryDraw" />
+        <item itemvalue="Application.EncryptionAndDecryption" />
+        <item itemvalue="Application.Grade" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676646117109</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat add Method Pratice">
+      <created>1676892309298</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676892309298</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -161,6 +173,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat add basic[Array,Method]" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat add basic[Array,Method]" />
+    <MESSAGE value="feat add Method Pratice" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat add Method Pratice" />
   </component>
 </project>
