@@ -1,4 +1,4 @@
-package basicGrammar;
+package objectOriented;
 
 public class ExtendChild extends ExtendParent {
     public ExtendChild(String name, Number age, char sex) {

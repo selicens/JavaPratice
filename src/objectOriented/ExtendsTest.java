@@ -1,4 +1,4 @@
-package basicGrammar;
+package objectOriented;
 
 public class ExtendsTest {
     public static void main(String[] args) {
