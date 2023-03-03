@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ed48cf9-5a22-4148-afb4-5259d1b8844a" name="Changes" comment="feat basic ended">
-      <change afterPath="$PROJECT_DIR$/src/objectOriented/Index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objectOriented/PackageClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objectOriented/Private.java" afterDir="false" />
+    <list default="true" id="0ed48cf9-5a22-4148-afb4-5259d1b8844a" name="Changes" comment="feat objectOriented">
+      <change afterPath="$PROJECT_DIR$/src/basicGrammar/JavaString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objectOriented/StandardJavaBean.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basicGrammar/ExtendChild.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/objectOriented/ExtendChild.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basicGrammar/ExtendParent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/objectOriented/ExtendParent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basicGrammar/ExtendsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/objectOriented/ExtendsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicGrammar/Loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basicGrammar/Loop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/objectOriented/Index.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/objectOriented/Index.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/objectOriented/Private.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/objectOriented/Private.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,13 +44,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PackageClass">
-    <configuration name="DichromaticSphere" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeTest.DichromaticSphere" />
+  <component name="RunManager" selected="Application.JavaString">
+    <configuration name="JavaString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicGrammar.JavaString" />
       <module name="JavaPratice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="objectOriented.*" />
+          <option name="PATTERN" value="basicGrammar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,25 +58,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EncryptionAndDecryption" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeTest.EncryptionAndDecryption" />
+    <configuration name="Loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicGrammar.Loop" />
       <module name="JavaPratice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="objectOriented.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LotteryDraw" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeTest.LotteryDraw" />
-      <module name="JavaPratice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="objectOriented.*" />
+          <option name="PATTERN" value="basicGrammar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,6 +77,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="objectOriented.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicGrammar.StringJava" />
+      <module name="JavaPratice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basicGrammar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JavaString" />
+        <item itemvalue="Application.Loop" />
+        <item itemvalue="Application.StringJava" />
         <item itemvalue="Application.PackageClass" />
         <item itemvalue="Application.TwoDimensionalArray" />
-        <item itemvalue="Application.DichromaticSphere" />
-        <item itemvalue="Application.LotteryDraw" />
-        <item itemvalue="Application.EncryptionAndDecryption" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677249824564</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat objectOriented">
+      <created>1677682475362</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677682475362</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -181,6 +187,7 @@
     <MESSAGE value="feat add basic[Array,Method]" />
     <MESSAGE value="feat add Method Pratice" />
     <MESSAGE value="feat basic ended" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat basic ended" />
+    <MESSAGE value="feat objectOriented" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat objectOriented" />
   </component>
 </project>

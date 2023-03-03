@@ -20,7 +20,7 @@ public class Loop {
         } while (k < 15);
         // for循环增强
         int [] numbers = {10, 20, 30};
-        String [] strings = {"张三", "李四", "王五"};
+        String[] strings = {"张三", "李四", "王五"};
         for (int n : numbers) {
             System.out.println("\t" + n);
         }
