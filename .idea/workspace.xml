@@ -4,13 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ed48cf9-5a22-4148-afb4-5259d1b8844a" name="Changes" comment="feat objectOriented">
-      <change afterPath="$PROJECT_DIR$/src/basicGrammar/JavaString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objectOriented/StandardJavaBean.java" afterDir="false" />
+    <list default="true" id="0ed48cf9-5a22-4148-afb4-5259d1b8844a" name="Changes" comment="feat string">
+      <change afterPath="$PROJECT_DIR$/src/basicGrammar/JavaStringBuild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicGrammar/JavaStringJoiner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeTest/AmountConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeTest/RomanNumerals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeTest/ShieldPhone.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basicGrammar/Loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basicGrammar/Loop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/objectOriented/Index.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/objectOriented/Index.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/objectOriented/Private.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/objectOriented/Private.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicGrammar/JavaString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basicGrammar/JavaString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +45,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.JavaString">
+  <component name="RunManager" selected="Application.RomanNumerals">
     <configuration name="JavaString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basicGrammar.JavaString" />
       <module name="JavaPratice" />
@@ -58,8 +59,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basicGrammar.Loop" />
+    <configuration name="JavaStringBuild" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicGrammar.JavaStringBuild" />
       <module name="JavaPratice" />
       <extension name="coverage">
         <pattern>
@@ -71,21 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PackageClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="objectOriented.PackageClass" />
-      <module name="JavaPratice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="objectOriented.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basicGrammar.StringJava" />
+    <configuration name="JavaStringJoiner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicGrammar.JavaStringJoiner" />
       <module name="JavaPratice" />
       <extension name="coverage">
         <pattern>
@@ -97,12 +85,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoDimensionalArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basicGrammar.TwoDimensionalArray" />
+    <configuration name="RomanNumerals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeTest.RomanNumerals" />
       <module name="JavaPratice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="objectOriented.*" />
+          <option name="PATTERN" value="codeTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShieldPhone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeTest.ShieldPhone" />
+      <module name="JavaPratice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codeTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RomanNumerals" />
+        <item itemvalue="Application.JavaStringJoiner" />
+        <item itemvalue="Application.JavaStringBuild" />
         <item itemvalue="Application.JavaString" />
-        <item itemvalue="Application.Loop" />
-        <item itemvalue="Application.StringJava" />
-        <item itemvalue="Application.PackageClass" />
-        <item itemvalue="Application.TwoDimensionalArray" />
+        <item itemvalue="Application.ShieldPhone" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677682475362</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="feat string">
+      <created>1677859402775</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1677859402775</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -188,6 +196,7 @@
     <MESSAGE value="feat add Method Pratice" />
     <MESSAGE value="feat basic ended" />
     <MESSAGE value="feat objectOriented" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat objectOriented" />
+    <MESSAGE value="feat string" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat string" />
   </component>
 </project>
